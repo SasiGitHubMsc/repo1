@@ -12,6 +12,6 @@ notify:
 
     # A list of hook hashes, containing the URL field
 
-    - url: https://outlook.office.com/webhook/d8aaf6c6-0083-4df3-a0e0-779fa0b5c8b8@72f988bf-86f1-41af-91ab-2d7cd011db47/CircleCI/eaad812e38c74ed8952f51d26b0275d5/929c16ef-8d0d-46ca-a0c3-559937d6bd2c
+    - url: https://outlook.office.com/webhook/631dac0a-93d7-4ff9-8bb9-8ff0788036af@72f988bf-86f1-41af-91ab-2d7cd011db47/CircleCI/29fe1e0015a34c7fb0eb206a840da0a0/929c16ef-8d0d-46ca-a0c3-559937d6bd2c
 
     - url: http://requestb.in/14948qw1
