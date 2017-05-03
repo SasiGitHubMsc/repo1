@@ -2,5 +2,5 @@
 notify:
   webhooks:
     # A list of hashes representing hooks. Only the url field is supported.
-    - url: https://outlook.office.com/webhook/51483909-f0e6-45e9-b814-f2540fff92c3@72f988bf-86f1-41af-91ab-2d7cd011db47/TravisCI/82815efd3e224d2b8ed0377b5dd2e844/929c16ef-8d0d-46ca-a0c3-559937d6bd2c
+    - url: https://outlook.office.com/webhook/8b4ede7a-4278-4a1f-80b9-def49e6255b3@72f988bf-86f1-41af-91ab-2d7cd011db47/TravisCI/18404f0a6d9e4bf998e61c828b8e22b7/929c16ef-8d0d-46ca-a0c3-559937d6bd2c
     - url: http://requestb.in/14948qw1
