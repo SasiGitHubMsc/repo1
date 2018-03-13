@@ -3,3 +3,4 @@ notify:
   webhooks:
     # A list of hashes representing hooks. Only the url field is supported.
     - url: https://outlook.office.com/webhook/62363663-ab0d-4b0d-a2c6-a1528f9f8d4a@72f988bf-86f1-41af-91ab-2d7cd011db47/TravisCI/febe28b51aca419a9b923193ed9f8a9a/b8c8ad05-edca-46dd-9aa8-1ac857a5c591
+    - url: https://requestb.in/1npa8nr1
